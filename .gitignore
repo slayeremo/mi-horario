@@ -1,1 +1,3 @@
 libs
+*.sublime-project
+*.sublime-workspace
